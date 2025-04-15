@@ -1,5 +1,6 @@
 # QUIZRUSH
 Quizrush Project
+https://quizrush.netlify.app/
 # 🚀 QuizRush
 
 **A Gen Z-powered quiz app built with style, speed, and smarts.**
